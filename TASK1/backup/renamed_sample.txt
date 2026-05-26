@@ -1,0 +1,2 @@
+Hello from Python file handling project.
+This file was created automatically.
